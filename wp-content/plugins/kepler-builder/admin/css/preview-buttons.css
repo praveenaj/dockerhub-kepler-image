@@ -1,0 +1,159 @@
+/* Kepler Builder buttons for preview page */
+.btn-kepler-builder-open{
+    display: inline-block;
+    background-color: #0066ff;
+    color:#fff;
+    text-decoration: none;
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-weight:400;
+    -webkit-appearance: none;
+    border-radius: 3.5px;
+    white-space: nowrap;
+    box-sizing: border-box;
+    box-shadow: inset 0px 0px 0px 0.5px rgba(0, 36, 99, 0.27), inset 0px -1px 0px 0px rgba(0,84,232,1), 0px 1px 0px 0px rgba(0,84,232,1);
+    text-shadow: 0px 1px 2px rgba(0,0,0,0.18);
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    font-size:13px;
+}
+
+
+.btn-kepler-builder-open:hover{
+    color:#fff;
+    background-color: #1473ff;
+}
+
+.btn-kepler-builder-open:active{
+    color:#fff;
+    background-color: #0066ff;
+    box-shadow: inset 0px 0px 0px 1px rgba(0, 36, 99, 0.12), inset 0px -1px 0px 0px rgba(0,84,232,1);
+    transform: translateY(1px)
+}
+
+.btn-kepler-builder-open:focus{
+    color:#fff;
+    box-shadow:inset 0 0 0px 1px rgba(0, 0, 0, 0.27);
+}
+
+
+.btn-kepler-builder-open.default{
+    padding: 5px 8px;
+    padding-right: 9px;
+    margin-top: 8px;
+    margin-bottom: 2px;
+}
+
+.btn-kepler-builder-open.default.logo-icon:before{
+    content:'';
+    background-image: url('../img/btn-kepler-editor-c.png');
+    display: inline-block;
+    width:  23px;
+    height: 18px;
+    vertical-align: text-top;
+    margin: 0;
+    margin-right: 6px;
+    background-position: -2px 0px;
+}
+
+.btn-kepler-builder-open.default-disabled{
+    padding: 5px 8px;
+    padding-right: 9px;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    background-color: transparent;
+    box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.10);
+    color: rgba(0, 0, 0, 0.29);
+    font-weight: 400;
+    cursor: not-allowed !important;
+    text-shadow: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.btn-kepler-builder-open.default-disabled:active{
+    transform: none;
+}
+
+.btn-kepler-builder-open.default-disabled:focus{
+    box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.10) !important;
+}
+
+.btn-kepler-builder-open.default-disabled.logo-icon:before{
+    content:'';
+    background-position: -2px -18px;
+    background-image: url('../img/btn-kepler-editor-c.png');
+    display: inline-block;
+    width:  23px;
+    height: 18px;
+    vertical-align: text-top;
+    margin: 0;
+    margin-right: 6px;
+}
+
+.btn-kepler-builder-open.default-disabled:focus, .btn-kepler-builder-open.guttern-disabled:focus{
+    outline:0;
+    -webkit-box-shadow:none;
+            box-shadow:none;
+}
+
+.btn-kepler-builder-open.guttern{
+    padding: 7px 11px;
+    padding-right: 12px;
+    margin: 0 10px;
+    margin-right: 15px;
+    margin-top: -1px;
+}
+
+.btn-kepler-builder-open.guttern-disabled{
+    padding: 7px 11px;
+    padding-right: 12px;
+    margin: 0 10px;
+    margin-right: 15px;
+    margin-top: -1px;
+    cursor: not-allowed;
+    color: rgba(0, 0, 0, 0.29);
+    font-weight: 400;
+}
+
+.btn-guttern-preview{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.btn-guttern-preview span{
+   margin-right: 7px;
+}
+
+.btn-guttern-preview .edit-post-post-link__link{
+    width: 18vw;
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+       text-overflow: ellipsis;
+    display: inline-block;
+ }
+
+
+ @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 200/100), only screen and (min-device-pixel-ratio: 2) {
+    .btn-kepler-builder-open.default.logo-icon:before{
+      background-image: url('../img/btn-kepler-editor-c@2x.png');
+      background-size: 25px 36px;
+    }
+  }
+  @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 150/100), only screen and (min-device-pixel-ratio: 1.5) {
+    .btn-kepler-builder-open.default.logo-icon:before{
+      background-image: url('../img/btn-kepler-editor-c@2x.png');
+    }
+  }
+  @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 300/100), only screen and (min-device-pixel-ratio: 3) {
+    .btn-kepler-builder-open.default.logo-icon:before{
+      background-image: url('../img/btn-kepler-editor-c@2x.png');
+    }
+  }

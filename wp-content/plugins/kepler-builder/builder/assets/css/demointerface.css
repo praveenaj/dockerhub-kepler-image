@@ -1,0 +1,125 @@
+html, body { height: 100%; padding: 0px; margin: 0px; overflow: hidden;}
+.header{
+    border-bottom: 1px solid #dadde2;
+    height: 50px;
+    z-index: 100;
+    width: 100%;
+    position: fixed;
+    background:#fff;
+}
+
+.vlog{
+    position: fixed;
+    bottom: 0;
+    background: #000;
+    
+}
+
+#shortcode-panel{
+    background-color: #fff;
+    position: fixed;
+    bottom: 30px;
+    left: 250px;
+    right: 250px;
+    border-top: 1px solid #dadde2;
+}
+#shortcode-panel.open{
+    height: 400px;
+    top:400px;
+}
+#elements-panel h3
+{
+    z-index: 2;
+    font-size: 13px;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 500;
+    border: 1px solid #E9EBED;
+    border-width: 1px 0 1px 0;
+    color: #222429;
+    padding: 0 10px;
+    height: 30px;
+    line-height: 30px;
+    box-sizing: border-box;
+    clear: both;
+}
+#elements-panel
+{
+    position: fixed;
+    top: 50%;
+    width: 250px;
+    left: 0px;
+    border-right: 1px solid #dadde2;
+    background: #fff;
+    color: #616774;
+    height: 50%;
+}
+#elements-panel > ul
+{   
+    list-style: none;
+    padding: 0px;
+}
+#elements-panel > ul > li
+{
+    display:inline-block;
+    margin-right:2px;
+    padding: 10px 15px;
+    cursor: move;
+    width: 120px;
+}
+#elements-panel > ul > li i
+{
+    font-size:40px;
+    margin-bottom:10px;
+    /* color: rgb(0, 187, 255); */
+}
+#elements-panel > ul> li p
+{
+    margin:0px;
+}
+#clientframe
+{
+    height:100%;
+    width:100%;
+}
+#preview
+{   
+    position: fixed;
+    left: 250px;
+    top: 50px;
+    bottom: 0;
+    right: 250px;
+}
+
+#designer
+{   border: 1px solid blue;
+    position: fixed;
+    left: 250px;
+    top: 50px;
+    bottom: 0;
+    right: 250px;
+}
+
+#property-panel{
+    position: fixed;
+    top: 50px;
+    width: 250px;
+    right: 0px;
+    border-left: 1px solid #dadde2;
+    background: #fff;
+    color: #616774;
+    height: 100%;
+    overflow-y: auto;
+    padding-bottom: 80px;
+}
+
+#layers-panel{
+    position: fixed;
+    top: 50px;
+    width: 250px;
+    left: 0px;
+    border-right: 1px solid #dadde2;
+    background: #fff;
+    color: #616774;
+    height: 50%;
+    overflow-y: auto;
+}

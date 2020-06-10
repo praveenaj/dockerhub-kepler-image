@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <post>
+        <Title>Showcase</Title>
+        <Content><![CDATA[[kp_slider class="slider-testimonials"][kp_slide preset="testimonials-slider" multiLayeredBgOrder="bgGradient bgColor bgVideo bgImage" multiLayeredBg="true"][/kp_slide][kp_slide preset="testimonials-slider" multiLayeredBgOrder="bgGradient bgColor bgVideo bgImage" multiLayeredBg="true"][/kp_slide][kp_slide preset="testimonials-slider" multiLayeredBgOrder="bgGradient bgColor bgVideo bgImage" multiLayeredBg="true"][/kp_slide][/kp_slider]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/showcase/]]></Permalink>
+        <Categories>Slider</Categories>
+        <kp_data><![CDATA[[kp_slider autoPlay="true" autoPlayDuration="4.5" autoPlayOnce="false" responsive="true" slidesPerView="1" slideWidth="auto" spaceBetween="30" slidesDesktop="3" slidesTablet="2" slidesMobile="1" transition="none" transitionSpeed="300"  preset="testimonials-slider"  animationContentTransition="none"][kp_slide preset="testimonials-slider"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="testimonials-slider"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="testimonials-slider"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="testimonials-slider"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][/kp_slider]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Gallery</Title>
+        <Content><![CDATA[[kp_slider display_arrow_preview="true"][kp_slide preset="slider-gallery" multiLayeredBgOrder="bgGradient bgColor bgVideo bgImage" multiLayeredBg="true"][/kp_slide][/kp_slider]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/gallery/]]></Permalink>
+        <Categories>Slider</Categories>
+        <kp_data><![CDATA[[kp_slider autoPlay="false" autoPlayDuration="1" autoPlayOnce="false" responsive="true" slidesPerView="1" slideWidth="auto" spaceBetween="45" slidesDesktop="1" slidesTablet="1" slidesMobile="1" transition="none" transitionSpeed="300" controls_controlButtons="true" controls_pagination="true" preset="slider-gallery"][kp_slide preset="slider-gallery"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="slider-gallery"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="slider-gallery"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="slider-gallery"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][/kp_slider]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Hero</Title>
+        <Content><![CDATA[[kp_slider display_pagination_preview="true"][kp_slide preset="slider-hero-main" multiLayeredBgOrder="bgGradient bgColor bgVideo bgImage" multiLayeredBg="true"][/kp_slide][/kp_slider]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/hero/]]></Permalink>
+        <Categories>Slider</Categories>
+        <kp_data><![CDATA[[kp_slider autoPlay="true" autoPlayDuration="6" autoPlayOnce="false" responsive="true" slidesPerView="1" slideWidth="auto" spaceBetween="0" slidesDesktop="1" slidesTablet="1" slidesMobile="1" transition="none" transitionSpeed="300" animationContentTransitionSpeed="150"  controls_controlButtons="true" animationContentTransition="slideLeftIn" preset="slider-hero-main"][kp_slide preset="slider-hero-main"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="slider-hero-main"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="slider-hero-main"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][kp_slide preset="slider-hero-main"][kp_text preset="caption-text"]To access Slider Settings, right-click anywhere on the Slider and pick the Slider or Slide Layer from the Context-Menu Pick Layer option.[/kp_text][/kp_slide][/kp_slider]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Interactive</Title>
+        <Content><![CDATA[[kp_image preset="image-interactive sample-image" placeholder="true"][/kp_image]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/interactive/]]></Permalink>
+        <Categories>Image</Categories>
+        <kp_data><![CDATA[[kp_image preset="image-interactive"][/kp_image]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Thumbnail</Title>
+        <Content><![CDATA[[kp_image preset="image-thumbnail sample-image" placeholder="true"][/kp_image]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/thumbnail/]]></Permalink>
+        <Categories>Image</Categories>
+        <kp_data><![CDATA[[kp_image preset="image-thumbnail"][/kp_image]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>No style</Title>
+        <Content><![CDATA[[kp_image preset="image-default sample-image" placeholder="true"][/kp_image]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/no-style/]]></Permalink>
+        <Categories>Image</Categories>
+        <kp_data><![CDATA[[kp_image preset="image-default"][/kp_image]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Interactive</Title>
+        <Content><![CDATA[[kp_icon preset="icon-interactive" iconClass="kp_icon_facebook"][/kp_icon]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/interactive-2/]]></Permalink>
+        <Categories>Icon</Categories>
+        <kp_data><![CDATA[[kp_icon preset="icon-interactive" iconClass="kp_icon_facebook"][/kp_icon]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Thumbnail</Title>
+        <Content><![CDATA[[kp_icon preset="icon-thumbnail" iconClass="kp_icon_truck"][/kp_icon]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/thumbnail-2/]]></Permalink>
+        <Categories>Icon</Categories>
+        <kp_data><![CDATA[[kp_icon preset="icon-thumbnail" iconClass="kp_icon_truck"][/kp_icon]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>No style</Title>
+        <Content><![CDATA[[kp_icon preset="icon-default" iconClass="kp_icon_home"][/kp_icon]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/no-style-2/]]></Permalink>
+        <Categories>Icon</Categories>
+        <kp_data><![CDATA[[kp_icon preset="icon-default" iconClass="kp_icon_home"][/kp_icon]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Menu small</Title>
+        <Content><![CDATA[[kp_button preset="button button-menu-small"]Menu[/kp_button]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/menu-small/]]></Permalink>
+        <Categories>Button</Categories>
+        <kp_data><![CDATA[[kp_button preset="button button-menu-small"]Menu[/kp_button]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Menu</Title>
+        <Content><![CDATA[[kp_button preset="button button-menu"]Menu[/kp_button]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/menu/]]></Permalink>
+        <Categories>Button</Categories>
+        <kp_data><![CDATA[[kp_button preset="button button-menu"]Menu[/kp_button]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Call-to-action small</Title>
+        <Content><![CDATA[[kp_button preset="button button-call-to-action-small"]Get Started[/kp_button]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/call-to-action-small/]]></Permalink>
+        <Categories>Button</Categories>
+        <kp_data><![CDATA[[kp_button preset="button button-call-to-action-small"]Get Started[/kp_button]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Call-to-action</Title>
+        <Content><![CDATA[[kp_button preset="button button-call-to-action"]Get Started[/kp_button]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/call-to-action/]]></Permalink>
+        <Categories>Button</Categories>
+        <kp_data><![CDATA[[kp_button preset="button button-call-to-action"]Get Started[/kp_button]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Normal small</Title>
+        <Content><![CDATA[[kp_button preset="button button-default-small"]Discover[/kp_button]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/normal-small/]]></Permalink>
+        <Categories>Button</Categories>
+        <kp_data><![CDATA[[kp_button preset="button button-default-small"]Discover[/kp_button]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Normal</Title>
+        <Content><![CDATA[[kp_button preset="button button-default"]Discover[/kp_button]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/normal/]]></Permalink>
+        <Categories>Button</Categories>
+        <kp_data><![CDATA[[kp_button preset="button button-default"]Discover[/kp_button]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Number</Title>
+        <Content><![CDATA[[kp_text preset="number-text"]123[/kp_text]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/number/]]></Permalink>
+        <Categories>Text</Categories>
+        <kp_data><![CDATA[[kp_text preset="number-text"]1234567890[/kp_text]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Quote</Title>
+        <Content><![CDATA[[kp_text preset="quote-text"]"Quote"[/kp_text]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/quote/]]></Permalink>
+        <Categories>Text</Categories>
+        <kp_data><![CDATA[[kp_text preset="quote-text"]“The freedom to build a website limited only by your imagination”[/kp_text]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Article body</Title>
+        <Content><![CDATA[[kp_text preset="article-body"]Article Body[/kp_text]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/article-body/]]></Permalink>
+        <Categories>Text</Categories>
+        <kp_data><![CDATA[[kp_text preset="article-body"]The great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale, and, mid most of them all, one grand hooded phantom, like a snow hill in the air.[/kp_text]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Caption</Title>
+        <Content><![CDATA[[kp_text preset="caption-text"]Caption[/kp_text]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/caption/]]></Permalink>
+        <Categories>Text</Categories>
+        <kp_data><![CDATA[[kp_text preset="caption-text"]Photograph by Giuliana Bartolini[/kp_text]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Featured</Title>
+        <Content><![CDATA[[kp_placeholder preset="placeholder-video featured"][/kp_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:02</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/featured/]]></Permalink>
+        <Categories>Video</Categories>
+        <kp_data><![CDATA[[kp_video preset="video-featured"][/kp_video]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Subtitle</Title>
+        <Content><![CDATA[[kp_heading type="h6" preset="title h6 no-margin"]H6[/kp_heading]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/subtitle/]]></Permalink>
+        <Categories>Heading</Categories>
+        <kp_data><![CDATA[[kp_heading type="h6" preset="title h6"]Jaded zombies acted quietly but kept driving their oxen forward. Forsaking monastic tradition, twelve jovial friars gave up their vocation for a questionable existence on the flying trapeze.[/kp_heading]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Title 2</Title>
+        <Content><![CDATA[[kp_heading type="h5" preset="title h5"]H5[/kp_heading]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/title-2/]]></Permalink>
+        <Categories>Heading</Categories>
+        <kp_data><![CDATA[[kp_heading type="h5" preset="title h5"]Forsaking monastic tradition, twelve jovial friars gave up their vocation for a questionable existence on the flying trapeze. Bawds jog, flick quartz, vex nymph.[/kp_heading]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>No style</Title>
+        <Content><![CDATA[[kp_placeholder preset="placeholder-video no-style"][/kp_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/no-style-3/]]></Permalink>
+        <Categories>Video</Categories>
+        <kp_data><![CDATA[[kp_video preset="video-no-style"][/kp_video]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Title 1</Title>
+        <Content><![CDATA[[kp_heading type="h4" preset="title h4" class="title h4"]H4[/kp_heading]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/title-1/]]></Permalink>
+        <Categories>Heading</Categories>
+        <kp_data><![CDATA[[kp_heading type="h4" preset="title h4"]Forsaking monastic tradition, twelve jovial friars gave up their vocation for a questionable existence on the flying trapeze. Bawds jog, flick quartz, vex nymph.[/kp_heading]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Headline 3</Title>
+        <Content><![CDATA[[kp_heading type="h3" preset="title h3"]H3[/kp_heading]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/headline-3/]]></Permalink>
+        <Categories>Heading</Categories>
+        <kp_data><![CDATA[[kp_heading type="h3" preset="title h3"]The magical wizard quickly jinxed the gnomes before they vaporized. Quick fox jumps nightly above wizard.[/kp_heading]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Headline 2</Title>
+        <Content><![CDATA[[kp_heading type="h2" preset="title h2"]H2[/kp_heading]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/headline-2/]]></Permalink>
+        <Categories>Heading</Categories>
+        <kp_data><![CDATA[[kp_heading type="h2" preset="title h2"]The magical wizard quickly jinxed the gnomes before they vaporized. Quick fox jumps nightly above wizard.[/kp_heading]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Headline 1</Title>
+        <Content><![CDATA[[kp_heading type="h1" preset="title h1" ]H1[/kp_heading]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/headline-1/]]></Permalink>
+        <Categories>Heading</Categories>
+        <kp_data><![CDATA[[kp_heading type="h1" preset="title h1"]The magical wizard quickly jinxed the gnomes before they vaporized. Quick fox jumps nightly above wizard.[/kp_heading]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Aubergine</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-aubergine"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/aubergine/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-aubergine" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`stylers`:%10{`visibility`:`on`}%20},{`elementType`:`labels`,`stylers`:%10{`visibility`:`off`}%20},{`elementType`:`labels.icon`,`stylers`:%10{`visibility`:`off`}%20},{`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#008cb4`},{`visibility`:`off`}%20},{`elementType`:`labels.text.stroke`,`stylers`:%10{`color`:`#000000`},{`lightness`:15},{`visibility`:`off`}%20},{`featureType`:`administrative`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#000000`}%20},{`featureType`:`administrative`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#144b53`},{`lightness`:14},{`weight`:1.4}%20},{`featureType`:`administrative`,`elementType`:`labels`,`stylers`:%10{`visibility`:`on`}%20},{`featureType`:`landscape`,`stylers`:%10{`color`:`#08304b`}%20},{`featureType`:`poi`,`elementType`:`geometry`,`stylers`:%10{`color`:`#0c4152`},{`lightness`:5}%20},{`featureType`:`road`,`elementType`:`labels`,`stylers`:%10{`visibility`:`on`}%20},{`featureType`:`road`,`elementType`:`labels.icon`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`road.arterial`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#000000`}%20},{`featureType`:`road.arterial`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#0b3d51`},{`lightness`:16}%20},{`featureType`:`road.highway`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#000000`}%20},{`featureType`:`road.highway`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#0b434f`},{`lightness`:25}%20},{`featureType`:`road.local`,`elementType`:`geometry`,`stylers`:%10{`color`:`#000000`}%20},{`featureType`:`transit`,`stylers`:%10{`color`:`#146474`}%20},{`featureType`:`water`,`stylers`:%10{`color`:`#021019`}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Night</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-night"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/night/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-night" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`featureType`:`all`,`elementType`:`geometry`,`stylers`:%10{`color`:`#242f3e`}%20},{`featureType`:`all`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#746855`}%20},{`featureType`:`all`,`elementType`:`labels.text.stroke`,`stylers`:%10{`color`:`#242f3e`}%20},{`featureType`:`administrative.locality`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#d59563`}%20},{`featureType`:`poi`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#d59563`}%20},{`featureType`:`poi.park`,`elementType`:`geometry`,`stylers`:%10{`color`:`#263c3f`}%20},{`featureType`:`poi.park`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#6b9a76`}%20},{`featureType`:`road`,`elementType`:`geometry`,`stylers`:%10{`color`:`#38414e`}%20},{`featureType`:`road`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#212a37`}%20},{`featureType`:`road`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#9ca5b3`}%20},{`featureType`:`road.highway`,`elementType`:`geometry`,`stylers`:%10{`color`:`#746855`}%20},{`featureType`:`road.highway`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#1f2835`}%20},{`featureType`:`road.highway`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#f3d19c`}%20},{`featureType`:`transit`,`elementType`:`geometry`,`stylers`:%10{`color`:`#2f3948`}%20},{`featureType`:`transit.station`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#d59563`}%20},{`featureType`:`water`,`elementType`:`geometry`,`stylers`:%10{`color`:`#17263c`}%20},{`featureType`:`water`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#515c6d`}%20},{`featureType`:`water`,`elementType`:`labels.text.stroke`,`stylers`:%10{`color`:`#17263c`}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Dark</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-dark"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:45:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/dark/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-dark" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`elementType`:`labels.icon`,`stylers`:%10{`visibility`:`off`}%20},{`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#434343`},{`saturation`:-100},{`lightness`:25}%20},{`elementType`:`labels.text.stroke`,`stylers`:%10{`color`:`#000000`},{`lightness`:15},{`visibility`:`on`}%20},{`featureType`:`administrative`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#000000`},{`lightness`:20}%20},{`featureType`:`administrative`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#000000`},{`lightness`:17},{`weight`:1.2}%20},{`featureType`:`administrative`,`elementType`:`labels`,`stylers`:%10{`visibility`:`on`}%20},{`featureType`:`administrative.country`,`stylers`:%10{`visibility`:`simplified`}%20},{`featureType`:`administrative.country`,`elementType`:`geometry`,`stylers`:%10{`visibility`:`simplified`}%20},{`featureType`:`administrative.land_parcel`,`stylers`:%10{`visibility`:`on`}%20},{`featureType`:`administrative.locality`,`stylers`:%10{`saturation`:-100},{`lightness`:30},{`visibility`:`simplified`}%20},{`featureType`:`administrative.neighborhood`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`administrative.neighborhood`,`elementType`:`labels`,`stylers`:%10{`visibility`:`on`}%20},{`featureType`:`administrative.province`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`landscape`,`stylers`:%10{`lightness`:`74`},{`gamma`:`0.00`},{`visibility`:`simplified`}%20},{`featureType`:`landscape`,`elementType`:`geometry`,`stylers`:%10{`lightness`:20}%20},{`featureType`:`landscape`,`elementType`:`labels`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`landscape.man_made`,`stylers`:%10{`lightness`:`3`}%20},{`featureType`:`poi`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`poi`,`elementType`:`geometry`,`stylers`:%10{`color`:`#000000`},{`lightness`:21}%20},{`featureType`:`road`,`elementType`:`geometry`,`stylers`:%10{`visibility`:`simplified`}%20},{`featureType`:`road.arterial`,`elementType`:`geometry`,`stylers`:%10{`color`:`#000000`},{`lightness`:18}%20},{`featureType`:`road.highway`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#000000`},{`lightness`:17}%20},{`featureType`:`road.highway`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#000000`},{`lightness`:29},{`weight`:0.2}%20},{`featureType`:`road.local`,`elementType`:`geometry`,`stylers`:%10{`color`:`#000000`},{`lightness`:16}%20},{`featureType`:`transit`,`elementType`:`geometry`,`stylers`:%10{`color`:`#000000`},{`lightness`:20}%20},{`featureType`:`water`,`elementType`:`geometry`,`stylers`:%10{`color`:`#000000`},{`lightness`:15}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Retro</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-retro"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/retro/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-retro" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`featureType`:`all`,`elementType`:`geometry`,`stylers`:%10{`color`:`#ebe3cd`}%20},{`featureType`:`all`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#523735`}%20},{`featureType`:`all`,`elementType`:`labels.text.stroke`,`stylers`:%10{`color`:`#f5f1e6`}%20},{`featureType`:`administrative`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#c9b2a6`}%20},{`featureType`:`administrative.land_parcel`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#dcd2be`}%20},{`featureType`:`administrative.land_parcel`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#ae9e90`}%20},{`featureType`:`landscape.natural`,`elementType`:`geometry`,`stylers`:%10{`color`:`#dfd2ae`}%20},{`featureType`:`poi`,`elementType`:`geometry`,`stylers`:%10{`color`:`#dfd2ae`}%20},{`featureType`:`poi`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#93817c`}%20},{`featureType`:`poi.park`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#a5b076`}%20},{`featureType`:`poi.park`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#447530`}%20},{`featureType`:`road`,`elementType`:`geometry`,`stylers`:%10{`color`:`#f5f1e6`}%20},{`featureType`:`road.highway`,`elementType`:`geometry`,`stylers`:%10{`color`:`#f8c967`}%20},{`featureType`:`road.highway`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#e9bc62`}%20},{`featureType`:`road.highway`,`elementType`:`labels`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`road.highway.controlled_access`,`elementType`:`geometry`,`stylers`:%10{`color`:`#e98d58`}%20},{`featureType`:`road.highway.controlled_access`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#db8555`}%20},{`featureType`:`road.arterial`,`elementType`:`geometry`,`stylers`:%10{`color`:`#fdfcf8`}%20},{`featureType`:`road.arterial`,`elementType`:`labels`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`road.local`,`elementType`:`all`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`road.local`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#806b63`}%20},{`featureType`:`transit.line`,`elementType`:`geometry`,`stylers`:%10{`color`:`#dfd2ae`}%20},{`featureType`:`transit.line`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#8f7d77`}%20},{`featureType`:`transit.line`,`elementType`:`labels.text.stroke`,`stylers`:%10{`color`:`#ebe3cd`}%20},{`featureType`:`transit.station`,`elementType`:`geometry`,`stylers`:%10{`color`:`#dfd2ae`}%20},{`featureType`:`water`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#b9d3c2`}%20},{`featureType`:`water`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#92998d`}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Silver</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-silver"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/silver/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-silver" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`elementType`:`labels.icon`,`stylers`:%10{`visibility`:`off`}%20},{`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#333333`},{`saturation`:-10},{`lightness`:40}%20},{`elementType`:`labels.text.stroke`,`stylers`:%10{`color`:`#ffffff`},{`lightness`:16},{`visibility`:`on`}%20},{`featureType`:`administrative`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#fefefe`},{`lightness`:20}%20},{`featureType`:`administrative`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#fefefe`},{`lightness`:17},{`weight`:1.2}%20},{`featureType`:`landscape`,`elementType`:`geometry`,`stylers`:%10{`color`:`#f5f5f5`},{`lightness`:20}%20},{`featureType`:`poi`,`elementType`:`geometry`,`stylers`:%10{`color`:`#f5f5f5`},{`lightness`:21}%20},{`featureType`:`poi.park`,`elementType`:`geometry`,`stylers`:%10{`color`:`#dedede`},{`lightness`:21}%20},{`featureType`:`road.arterial`,`elementType`:`geometry`,`stylers`:%10{`color`:`#ffffff`},{`lightness`:18}%20},{`featureType`:`road.highway`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#ffffff`},{`lightness`:17}%20},{`featureType`:`road.highway`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#ffffff`},{`lightness`:29},{`weight`:0.2}%20},{`featureType`:`road.local`,`elementType`:`geometry`,`stylers`:%10{`color`:`#ffffff`},{`lightness`:16}%20},{`featureType`:`transit`,`elementType`:`geometry`,`stylers`:%10{`color`:`#f2f2f2`},{`lightness`:19}%20},{`featureType`:`water`,`elementType`:`geometry`,`stylers`:%10{`color`:`#e9e9e9`},{`lightness`:17}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Light</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-light"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/light-map/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-light" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`featureType`:`administrative`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#444444`}%20},{`featureType`:`landscape`,`elementType`:`all`,`stylers`:%10{`color`:`#f2f2f2`}%20},{`featureType`:`poi`,`elementType`:`all`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`poi.business`,`elementType`:`geometry.fill`,`stylers`:%10{`visibility`:`on`}%20},{`featureType`:`road`,`elementType`:`all`,`stylers`:%10{`saturation`:-100},{`lightness`:45}%20},{`featureType`:`road.highway`,`elementType`:`all`,`stylers`:%10{`visibility`:`simplified`}%20},{`featureType`:`road.arterial`,`elementType`:`labels.icon`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`transit`,`elementType`:`all`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`water`,`elementType`:`all`,`stylers`:%10{`color`:`#b4d4e1`},{`visibility`:`on`}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Standard 3</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-standard-3"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/standard-3/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-standard-3" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`featureType`:`administrative.country`,`elementType`:`geometry`,`stylers`:%10{`visibility`:`simplified`},{`hue`:`#ff0000`}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Standard 2</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-standard-2"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/standard-2/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-standard-2" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`featureType`:`administrative`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#d6e2e6`}%20},{`featureType`:`administrative`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#cfd4d5`}%20},{`featureType`:`administrative`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#7492a8`}%20},{`featureType`:`administrative.neighborhood`,`elementType`:`labels.text.fill`,`stylers`:%10{`lightness`:25}%20},{`featureType`:`landscape.man_made`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#dde2e3`}%20},{`featureType`:`landscape.man_made`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#cfd4d5`}%20},{`featureType`:`landscape.natural`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#dde2e3`}%20},{`featureType`:`landscape.natural`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#7492a8`}%20},{`featureType`:`landscape.natural.terrain`,`elementType`:`all`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`poi`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#dde2e3`}%20},{`featureType`:`poi`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#588ca4`}%20},{`featureType`:`poi`,`elementType`:`labels.icon`,`stylers`:%10{`saturation`:-100}%20},{`featureType`:`poi.park`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#a9de83`}%20},{`featureType`:`poi.park`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#bae6a1`}%20},{`featureType`:`poi.sports_complex`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#c6e8b3`}%20},{`featureType`:`poi.sports_complex`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#bae6a1`}%20},{`featureType`:`road`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#41626b`}%20},{`featureType`:`road`,`elementType`:`labels.icon`,`stylers`:%10{`saturation`:-45},{`lightness`:10},{`visibility`:`on`}%20},{`featureType`:`road.highway`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#c1d1d6`}%20},{`featureType`:`road.highway`,`elementType`:`geometry.stroke`,`stylers`:%10{`color`:`#a6b5bb`}%20},{`featureType`:`road.highway`,`elementType`:`labels.icon`,`stylers`:%10{`visibility`:`on`}%20},{`featureType`:`road.highway.controlled_access`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#9fb6bd`}%20},{`featureType`:`road.arterial`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#ffffff`}%20},{`featureType`:`road.local`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#ffffff`}%20},{`featureType`:`transit`,`elementType`:`labels.icon`,`stylers`:%10{`saturation`:-70}%20},{`featureType`:`transit.line`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#b4cbd4`}%20},{`featureType`:`transit.line`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#588ca4`}%20},{`featureType`:`transit.station`,`elementType`:`all`,`stylers`:%10{`visibility`:`off`}%20},{`featureType`:`transit.station`,`elementType`:`labels.text.fill`,`stylers`:%10{`color`:`#008cb5`},{`visibility`:`on`}%20},{`featureType`:`transit.station.airport`,`elementType`:`geometry.fill`,`stylers`:%10{`saturation`:-100},{`lightness`:-5}%20},{`featureType`:`water`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#a6cbe3`}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Standard 1</Title>
+        <Content><![CDATA[[kp_map_placeholder preset="map map-standard-1"][/kp_map_placeholder]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/standard/]]></Permalink>
+        <Categories>Map</Categories>
+        <kp_data><![CDATA[[kp_map preset="map-wrapper map map-standard-1" ][/kp_map]]]></kp_data>
+        <kp_element_allow_duplicate>false</kp_element_allow_duplicate>
+        <kp_element_json_data>%10{`featureType`:`landscape.man_made`,`elementType`:`all`,`stylers`:%10{`color`:`#faf5ed`},{`lightness`:`0`},{`gamma`:`1`}%20},{`featureType`:`poi.park`,`elementType`:`geometry.fill`,`stylers`:%10{`color`:`#bae5a6`}%20},{`featureType`:`road`,`elementType`:`all`,`stylers`:%10{`weight`:`1.00`},{`gamma`:`1.8`},{`saturation`:`0`}%20},{`featureType`:`road`,`elementType`:`geometry.fill`,`stylers`:%10{`hue`:`#ffb200`}%20},{`featureType`:`road.arterial`,`elementType`:`geometry.fill`,`stylers`:%10{`lightness`:`0`},{`gamma`:`1`}%20},{`featureType`:`transit.station.airport`,`elementType`:`all`,`stylers`:%10{`hue`:`#b000ff`},{`saturation`:`23`},{`lightness`:`-4`},{`gamma`:`0.80`}%20},{`featureType`:`water`,`elementType`:`all`,`stylers`:%10{`color`:`#a0daf2`}%20}%20</kp_element_json_data>
+        <kp_template></kp_template>
+        <kp_element_scale>1</kp_element_scale>
+    </post>
+    <post>
+        <Title>Overline</Title>
+        <Content><![CDATA[[kp_text preset="overline-text"]Overline[/kp_text]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/overline/]]></Permalink>
+        <Categories>Text</Categories>
+        <kp_data><![CDATA[[kp_text preset="overline-text"]Feature[/kp_text]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Body 2</Title>
+        <Content><![CDATA[[kp_text preset="body-text-alt"]Body 2[/kp_text]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/body-two/]]></Permalink>
+        <Categories>Text</Categories>
+        <kp_data><![CDATA[[kp_text preset="body-text-alt"]We quickly seized the black axle and just saved it from going past him. No kidding, Lorenzo called off his trip to visit Mexico City just because they told him the conquistadores were extinct. We promptly judged antique onyx buckles for the next prize.[/kp_text]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+    <post>
+        <Title>Body 1</Title>
+        <Content><![CDATA[[kp_text preset="body-text"]Body 1[/kp_text]]]></Content>
+        <Excerpt></Excerpt>
+        <Date>2019-06-12T17:44:03</Date>
+        <PostType>kp_elements</PostType>
+        <Permalink><![CDATA[http://192.168.1.112:8888/kepler/kp_elements/body/]]></Permalink>
+        <Categories>Text</Categories>
+        <kp_data><![CDATA[[kp_text preset="body-text"]We quickly seized the black axle and just saved it from going past him. No kidding, Lorenzo called off his trip to visit Mexico City just because they told him the conquistadores were extinct. We promptly judged antique onyx buckles for the next prize.[/kp_text]]]></kp_data>
+        <kp_element_allow_duplicate>true</kp_element_allow_duplicate>
+        <kp_element_json_data></kp_element_json_data>
+        <kp_template></kp_template>
+    </post>
+</data>

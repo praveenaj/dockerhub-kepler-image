@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<post>
+		<Title>Heading</Title>
+		<Slug>heading</Slug>
+	</post>
+	<post>
+		<Title>Text</Title>
+		<Slug>text</Slug>
+	</post>
+	<post>
+		<Title>Button</Title>
+		<Slug>button</Slug>
+	</post>
+	<post>
+		<Title>Icon</Title>
+		<Slug>icon</Slug>
+	</post>
+	<post>
+		<Title>Image</Title>
+		<Slug>image</Slug>
+	</post>
+	<post>
+		<Title>Slider</Title>
+		<Slug>slider</Slug>
+	</post>
+	<post>
+		<Title>Video</Title>
+		<Slug>video</Slug>
+	</post>
+	<post>
+		<Title>Map</Title>
+		<Slug>map</Slug>
+	</post>
+</data>
